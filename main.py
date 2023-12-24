@@ -10,4 +10,4 @@ def lambda_hander(event, context):
 
     # 顯示DataFrame的內容
     print(df)
-    print('test0000001')
+    print('test0000002')
