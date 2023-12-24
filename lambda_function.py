@@ -1,6 +1,6 @@
 import pandas as pd
 
-def lambda_hander(event, context):
+def lambda_handler(event, context):
     # 創建一個示例的DataFrame
     data = {'姓名': ['小明', '小華', '小李', '小張'],
             '年齡': [25, 30, 28, 22],
